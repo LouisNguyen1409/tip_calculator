@@ -1,1 +1,1 @@
-# tip_calculator
+This project is a simple python project calculate the tip money
